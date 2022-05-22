@@ -13,6 +13,8 @@ Vue.component("news-ticker", {
                 "omega layers but steam engine",
                 "mod.js: powering layers",
                 "i ran out of words on my hard drive :("
+                "Flowism Layers be like"
+                "There is not enough News Tickers"
             ],
             currentMessage: "",
             messageIndex: -1
