@@ -23,7 +23,7 @@ Vue.component("news-ticker", {
     computed: {
         animationDuration: function()
         {
-            return 10 + 0.1 * this.currentMessage.replace(/<.*?>/g, "").length;
+            return 12 + 0.1 * this.currentMessage.replace(/<.*?>/g, "").length;
         }
     },
     methods: {
